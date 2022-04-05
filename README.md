@@ -1,6 +1,6 @@
 # HAP
 
-This version is for the submission of TKDE paper.
+This version is for the submission of TKDE paper "Hierarchical Adaptive Pooling by Capturing Hider-order Dependency for Graph Representation Learning".
 
 
 ## Dependencies
